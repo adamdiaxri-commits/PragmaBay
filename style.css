@@ -10,6 +10,12 @@ body *
 	padding: 5px;
 }
 
+.main
+{
+	background-color: rgb(205, 62, 90);
+	border: 25px transparent solid;
+	border-radius: 75px;
+}
 button
 {
 	background-color: #35e63e;
@@ -29,6 +35,6 @@ button:hover
 	margin-right: auto;
 	
 	/* Round the image */
-	border: 25px transparent solid;
-	border-radius: 75px;
+	border: 5px transparent solid;
+	border-radius: 15px;
 }
