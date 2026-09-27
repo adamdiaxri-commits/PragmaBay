@@ -1,0 +1,22 @@
+/* Defines style for specific elements (singletons) */
+
+#main
+{
+	background-color: rgb(54, 54, 54);
+
+	padding: 25px;
+	/* display: grid; */
+}
+
+#header
+{
+	background-color: rgb(205, 62, 90);
+	color: white;
+	text-decoration: dashed;
+	text-decoration-color: black;
+}
+
+#favorite_games
+{
+	background-color: rgb(84, 155, 171);
+}

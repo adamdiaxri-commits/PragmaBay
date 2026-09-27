@@ -1,0 +1,29 @@
+/* Defines style for tags or classses */
+
+body
+{	
+	background-color: rgb(150, 150, 150);
+	padding: 15px;
+	
+	text-align: center;	
+	
+}
+
+.block
+{
+	background-color: rgb(215, 215, 215); /* Default color */
+	padding: 15px;
+
+	border: 5px transparent solid;
+	border-radius: 15px;
+}
+
+.block_header
+{
+	text-align: center;
+}
+
+.block_body
+{
+	text-align: left;
+}
